@@ -39,6 +39,8 @@ no randomness. Two runs write byte-identical output.
 
 import os
 
+# The entry is the handle itself, exactly as registered -- no
+# decoration, no alternative spelling.
 WORD = "dimah1109"
 
 
